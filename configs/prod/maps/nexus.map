@@ -1,0 +1,18 @@
+#Nexus
+intuatlicbotendpoint.starixplay.com nexus_ncb_endpoint_nodes_UAT
+licbotendpoint.starixplay.com nexus_ncb_endpoint_nodes_PROD
+licbotwebhook.starixplay.com nexus_ncb_endpoint_nodes_PROD
+licbotwebhook2.starixplay.com nexus_ncb_endpoint_nodes_PROD
+uatlicbotendpoint.starixplay.com nexus_ncb_endpoint_nodes_UAT
+licbot.oneops.net chatbot_ncb_main_PROD_nodes
+licbot2.oneops.net chatbot_ncb_main_PROD_nodes
+licbot3.oneops.net chatbot_ncb_main_PROD_nodes
+vn.sabasports.com nexus_saba_news_nodes_PROD
+www.saba.vn nexus_saba_news_nodes_PROD
+saba.vn nexus_saba_news_nodes_PROD
+thor.12bploutos.com thor_thor_api_PROD_1_nodes
+thor12b.oneops.net:8282 thor_thor_api_PROD_1_nodes
+thornova88.oneops.net:8282 thor_thor_api_PROD_nodes
+api-thor.nova88.com thor_thor_api_PROD_nodes
+thorivorysport.oneops.net:8282 thor_thor_api_PROD_2_nodes
+api-thor.ivorysport.com thor_thor_api_PROD_2_nodes
