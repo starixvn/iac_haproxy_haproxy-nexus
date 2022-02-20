@@ -1,1 +1,7 @@
-#
+#Nexus
+sabanews.sportsfun.app nexus_saba_news_nodes
+sabanews-cdn.sportsfun.app nexus_saba_news_upload_nodes
+licbotendpoint.sportsfun.app nexus_bot_service_endpoint_nodes
+letstalkcrm.sportsfun.app nexus_crm_letstalk_nodes
+oddsfeedadmin.sportsfun.app nexus_odds_feed_admin_nodes
+oddsfeedwebservice.sportsfun.app nexus_odds_feed_service_nodes
