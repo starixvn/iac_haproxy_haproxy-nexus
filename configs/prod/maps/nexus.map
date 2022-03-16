@@ -7,6 +7,8 @@ uatlicbotendpoint.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_1_be
 licbot.oneops.net nexus_chatbot_ncb_main_PROD_be
 licbot2.oneops.net nexus_chatbot_ncb_main_PROD_be
 licbot3.oneops.net nexus_chatbot_ncb_main_PROD_be
+saba.vn:8088 nexus_saba_sports_saba_news_site_PROD_be
+www.saba.vn:8088 nexus_saba_sports_saba_news_site_PROD_be
 vn.sabasports.com nexus_saba_sports_saba_news_site_PROD_be
 www.saba.vn nexus_saba_sports_saba_news_site_PROD_be
 saba.vn nexus_saba_sports_saba_news_site_PROD_be
