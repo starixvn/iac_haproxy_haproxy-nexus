@@ -1,4 +1,4 @@
 #domain backendnames
-sabanews.starixuat.com nexus_saba_sports_saba_news_site_UAT_nodes
-licbot.starixuat.com nexus_ncb_main_UAT_nodes
-licbotendpoint.starixuat.com nexus_ncb_endpoint_UAT_nodes
+sabanews.starixuat.com nexus_saba_sports_saba_news_site_UAT_be
+licbot.starixuat.com nexus_chatbot_ncb_main_UAT_be
+licbotendpoint.starixuat.com nexus_chatbot_ncb_service_endpoint_UAT_be
