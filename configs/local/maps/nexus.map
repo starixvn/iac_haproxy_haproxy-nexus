@@ -28,3 +28,7 @@ saba-news-v2.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_1_be
 saba-news-v1.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_be
 saba-reports-upload.nexdev.net nexus_saba_sports_saba_news_upload_LOCAL_be
 saba-reports.nexdev.net nexus_saba_sports_saba_news_wp_LOCAL_be
+new-crm.nexdev.net nexus_nap_crm_website_LOCAL_be
+new-crm1.nexdev.net nexus_nap_crm_website_LOCAL_1_be
+new-crm2.nexdev.net nexus_nap_crm_website_LOCAL_2_be
+crm-letstalk-webhook.nexdev.net nexus_nap_crm_letstalk_webhook_LOCAL_be
