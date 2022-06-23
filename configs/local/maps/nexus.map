@@ -6,7 +6,7 @@ oddsfeed-service.nexdev.net nexus_oddsfeed_webservice_be
 oddsfeed.nexdev.net nexus_oddsfeed_admin_be
 n88-sc.nexdev.net nexus_n88_nap_sc_be
 n88-api.nexdev.net nexus_n88_nap_api_be
-info.nexcel.vn nexus_nexcel_info_site_LOCAL_be
+#info.nexcel.vn nexus_nexcel_info_site_LOCAL_be
 nexcel.info nexus_nexcel_info_site_LOCAL_be
 qland.nexdev.net nexus_qland_be
 qland1.nexdev.net nexus_qland1_be
@@ -31,4 +31,6 @@ saba-reports.nexdev.net nexus_saba_sports_saba_news_wp_LOCAL_be
 new-crm.nexdev.net nexus_nap_crm_website_LOCAL_be
 new-crm1.nexdev.net nexus_nap_crm_website_LOCAL_1_be
 new-crm2.nexdev.net nexus_nap_crm_website_LOCAL_2_be
-#crm-letstalk-webhook.nexdev.net nexus_nap_crm_letstalk_webhook_LOCAL_be
+
+#Docker Windows
+smshrm.nexdev.net nexus_smshrm_website_LOCAL_be
