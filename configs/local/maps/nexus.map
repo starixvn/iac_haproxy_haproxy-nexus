@@ -35,4 +35,5 @@ nexhrm.nexdev.net nexus_nexcel_nexhrm_LOCAL_be
 
 #Docker Windows
 smshrm.nexdev.net nexus_smshrm_website_LOCAL_be
-qland2.nexdev.net nexus_nexcel_qland_LOCAL_be
+qland.nexdev.net nexus_nexcel_qland_LOCAL_be
+qland1.nexdev.net nexus_nexcel_qland_LOCAL_1_be
