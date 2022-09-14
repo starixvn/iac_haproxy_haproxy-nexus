@@ -2,3 +2,5 @@
 sabanews.starixuat.com nexus_saba_sports_saba_news_site_UAT_be
 licbot.starixuat.com nexus_chatbot_ncb_main_UAT_be
 licbotendpoint.starixuat.com nexus_chatbot_ncb_service_endpoint_UAT_be
+#internal
+int_n88_api.starixuat.com nexus_N88_API_be
