@@ -1,7 +1,0 @@
-#Nexus
-sabanews.sportsfun.app nexus_saba_sports_saba_news_site_AWS_be
-sabanews-cdn.sportsfun.app nexus_saba_sports_saba_news_upload_AWS_be
-licbotendpoint.sportsfun.app nexus_bot_service_endpoint_be
-letstalkcrm.sportsfun.app nexus_crm_letstalk_be
-oddsfeedadmin.sportsfun.app nexus_odds_feed_admin_be
-oddsfeedwebservice.sportsfun.app nexus_odds_feed_service_be
