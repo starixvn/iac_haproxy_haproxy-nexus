@@ -24,3 +24,5 @@ thor.12bploutos.com nexus_thor_thor_api_PROD_1_be
 thorivorysport.oneops.net:8282 nexus_thor_thor_api_PROD_2_be
 thorivorysport.oneops.net nexus_thor_thor_api_PROD_2_be
 api-thor.ivorysport.com nexus_thor_thor_api_PROD_2_be
+#internal
+vn-oddsfeed-prod.nebula.prod nexus_XMLOddsFeed_PROD_be
