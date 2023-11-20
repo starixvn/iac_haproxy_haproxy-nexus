@@ -11,3 +11,4 @@ licbot.starixuat.com nexus_chatbot_ncb_main_UAT_be
 licbotendpoint.starixuat.com nexus_chatbot_ncb_service_endpoint_UAT_be
 #internal
 int_n88_api.starixuat.com nexus_N88_API_be
+vn-oddsfeed-uat.nebula.prod nexus_oddsfeed_admin_site_UAT_be
