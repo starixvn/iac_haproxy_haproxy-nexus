@@ -1,3 +1,4 @@
+accounting.gamora.prod  nexus_accounting_KLDR_be
 licbotwebhook.byb6181.com nexus_chatbot_ncb_service_endpoint_KLDR_be
 crm.byb6181.com nexus_nap_crm_website_KLDR_be
 licbot.byb6181.com nexus_chatbot_ncb_main_KLDR_be
@@ -6,3 +7,4 @@ qland.byb6181.com nexus_qland_KLDR_be
 oddsfeed.byb6181.com nexus_oddsfeed_KLDR_be
 vn-oddsfeed.gamora.prod nexus_oddsfeed_KLDR_be
 oddsfeed-webservice.byb6181.com nexus_oddsfeed_webservice_KLDR_be
+
