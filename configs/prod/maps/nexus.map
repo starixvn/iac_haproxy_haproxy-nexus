@@ -4,7 +4,7 @@ crmupload.oneops.net nexus_nap_crm_announcement_uploads_PROD_be
 crm.oneops.net nexus_nap_crm_website_PROD_be
 crm2.oneops.net nexus_nap_crm_website_PROD_be
 crm3.oneops.net nexus_nap_crm_website_PROD_be
-letstalkcrm.oneops.net nexus_nap_crm_letstalk_webhook_PROD_be
+#letstalkcrm.oneops.net nexus_nap_crm_letstalk_webhook_PROD_be
 #Nexus
 intuatlicbotendpoint.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_1_be
 licbotendpoint.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_be
@@ -17,12 +17,12 @@ licbot3.oneops.net nexus_chatbot_ncb_main_PROD_be
 vn.sabasports.com nexus_saba_sports_saba_news_site_PROD_be
 www.saba.vn nexus_saba_sports_saba_news_site_PROD_be
 saba.vn nexus_saba_sports_saba_news_site_PROD_be
-thor.12bploutos.com nexus_thor_thor_api_PROD_1_be
+#thor.12bploutos.com nexus_thor_thor_api_PROD_1_be
 #thor12b.oneops.net nexus_thor_thor_api_PROD_1_be
 #thornova88.oneops.net nexus_thor_thor_api_PROD_be
 #api-thor.nova88.com nexus_thor_thor_api_PROD_be
-thorivorysport.oneops.net:8282 nexus_thor_thor_api_PROD_2_be
-thorivorysport.oneops.net nexus_thor_thor_api_PROD_2_be
-api-thor.ivorysport.com nexus_thor_thor_api_PROD_2_be
+#thorivorysport.oneops.net:8282 nexus_thor_thor_api_PROD_2_be
+#thorivorysport.oneops.net nexus_thor_thor_api_PROD_2_be
+#api-thor.ivorysport.com nexus_thor_thor_api_PROD_2_be
 #internal
 vn-oddsfeed-prod.nebula.prod nexus_XMLOddsFeed_PROD_be
