@@ -1,1 +1,2 @@
 ^/feeds(/.*)?$ nexus_xml_oddsfeed_webservice_PROD_path_be
+^/ nexus_xml_oddsfeed_admin_site_PROD_path_be
