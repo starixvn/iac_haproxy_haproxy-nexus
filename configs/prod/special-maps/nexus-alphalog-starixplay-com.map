@@ -1,2 +1,1 @@
-
-^/ nexus_xml_oddsfeed_webservice_PROD_path_be
+^/feeds(/.*)?$ nexus_xml_oddsfeed_webservice_PROD_path_be
