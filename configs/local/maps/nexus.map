@@ -1,3 +1,4 @@
+oddsfeed-service.nexdev.net nexus_xml_oddsfeed_webservice_LOCAL_be
 fb-nexhrm-webservice.nexdev.net nexus_nexcel_fb_nexhrm_webservice_LOCAL_be
 im-local.nexdev.net nexus_nexcel_incident_management_LOCAL_be
 redmine-local.nexdev.net nexus_nexcel_redmine_nexdev_LOCAL_be
@@ -12,8 +13,6 @@ nex-info.nexdev.net nexus_nexcel_info_site_LOCAL_be
 crm-botendpoint.nexdev.net nexus_nap_crm_botservice_endpoint_LOCAL_be
 crm-botendpoint1.nexdev.net nexus_nap_crm_botservice_endpoint_LOCAL_1_be
 rm-local2.nexdev.net nexus_nexcel_redmine_LOCAL_2_be
-#oddsfeed-webservice.nexdev.net nexus_xml_oddsfeed_website_LOCAL_1_be
-oddsfeed-webservice.nexdev.net nexus_oddsfeed_webservice_site_LOCAL_be
 crm-upload.nexdev.net nexus_nap_crm_announcement_uploads_LOCAL_be
 nexbot.nexdev.net nexus_nexcel_nexbot_LOCAL_be
 lumihrm.nexdev.net nexus_nexcel_nexhrm_LOCAL_1_be
