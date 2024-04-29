@@ -27,4 +27,5 @@ affxml.com nexus_xml_oddsfeed_admin_site_PROD_path_be
 #thorivorysport.oneops.net nexus_thor_thor_api_PROD_2_be
 #api-thor.ivorysport.com nexus_thor_thor_api_PROD_2_be
 #internal
-vn-oddsfeed-prod.nebula.prod nexus_XMLOddsFeed_PROD_be
+#vn-oddsfeed-prod.nebula.prod nexus_XMLOddsFeed_PROD_be
+vn-oddsfeed-prod.nebula.prod nexus_xml_oddsfeed_admin_site_PROD_path_be
