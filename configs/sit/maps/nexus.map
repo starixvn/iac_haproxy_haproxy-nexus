@@ -1,9 +1,9 @@
+crm-botendpoint.playonesit.com nexus_nap_crm_botservice_endpoint_SIT_be
 crm1.playonesit.com nexus_nap_crm_website_SIT_1_be
 crm.playonesit.com nexus_nap_crm_website_SIT_be
 crm-upload.playonesit.com nexus_nap_crm_announcement_uploads_SIT_be
 ncb.playonesit.com nexus_chatbot_ncb_main_SIT_be
 licbot.playonesit.com nexus_chatbot_ncb_service_endpoint_SIT_be
-crm-botendpoint.playthefun.com nexus_nap_crm_botservice_endpoint_SIT_be
 letstalk-crm.playthefun.com nexus_nap_crm_letstalk_webhook_SIT_be
 ##Nexus
 qland.playonesit.com nexus_qland_website_SIT_be
