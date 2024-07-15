@@ -1,1 +1,2 @@
 ^/fanexbot(/.*)?$ nexus_fanex_botservice_endpoint_PROD_1_path_be
+^/ nexus_chatbot_ncb_service_endpoint_PROD_be

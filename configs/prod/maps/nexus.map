@@ -7,7 +7,7 @@ crm2.oneops.net nexus_nap_crm_website_PROD_be
 crm3.oneops.net nexus_nap_crm_website_PROD_be
 #letstalkcrm.oneops.net nexus_nap_crm_letstalk_webhook_PROD_be
 #Nexus
-intlicbotendpoint.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_be
+licbotendpoint.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_be
 licbotwebhook2.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_be
 licbot.oneops.net nexus_chatbot_ncb_main_PROD_be
 licbot2.oneops.net nexus_chatbot_ncb_main_PROD_be
