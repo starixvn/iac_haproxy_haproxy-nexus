@@ -1,8 +1,9 @@
+oddsfeed-webservice.nexdev.net nexus_xml_oddsfeed_webservice_LOCAL_1_be
+oddsfeed-service.nexdev.net nexus_xml_oddsfeed_webservice_LOCAL_be
 new-oddsfeed.nexdev.net nexus_xml_oddsfeed_admin_site_LOCAL_be
 go-system-ghrworld.nexdev.net nexus_hrm_go_system_LOCAL_be
 go-api-ghrworld.nexdev.net nexus_hrm_go_webapi_LOCAL_be
 redmine-local.nexdev.net nexus_nexcel_redmine_nexdev_LOCAL_1_be
-oddsfeed-service.nexdev.net nexus_xml_oddsfeed_webservice_LOCAL_be
 fb-nexhrm-webservice.nexdev.net nexus_nexcel_fb_nexhrm_webservice_LOCAL_be
 im-local.nexdev.net nexus_nexcel_incident_management_LOCAL_be
 nexhrm.nexdev.net nexus_nexcel_nexhrm_LOCAL_be
