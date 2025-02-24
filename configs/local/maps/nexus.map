@@ -1,3 +1,4 @@
+crm-botendpoint.nexdev.net nexus_nap_crm_botservice_endpoint_LOCAL_be
 go-webadmin-ghrworld.nexdev.net nexus_hrm_go_webadmin_LOCAL_be
 go-system-ghrworld1.nexdev.net nexus_hrm_go_system_LOCAL_1_be
 go-api-ghrworld1.nexdev.net nexus_hrm_go_webapi_LOCAL_1_be
@@ -30,7 +31,6 @@ api-fanexbot.nexdev.net nexus_fanex_botservice_api_LOCAL_be
 new-goal.nexdev.net nexus_epa_nexgoal_website_LOCAL_be
 lumi-info.nexdev.net nexus_nexcel_info_site_LOCAL_1_be
 nex-info.nexdev.net nexus_nexcel_info_site_LOCAL_be
-crm-botendpoint.nexdev.net nexus_nap_crm_botservice_endpoint_LOCAL_be
 crm-botendpoint1.nexdev.net nexus_nap_crm_botservice_endpoint_LOCAL_1_be
 rm-local2.nexdev.net nexus_nexcel_redmine_LOCAL_2_be
 crm-upload.nexdev.net nexus_nap_crm_announcement_uploads_LOCAL_be
