@@ -1,2 +1,2 @@
-^/ nexus_chatbot_ncb_service_endpoint_LOCAL_be
 ^/crmupload(/.*)?$ nexus_nap_crm_public_uploads_LOCAL_path_be
+^/ nexus_chatbot_ncb_service_endpoint_LOCAL_be
