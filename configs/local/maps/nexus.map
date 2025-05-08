@@ -1,3 +1,10 @@
+hrm-sms.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
+hrm-wgi.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
+hrm-lexfingsi.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
+hrm-sri-lanka.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
+group-hrm.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
+hrm-cabintech.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
+hrm-hm.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
 hrm-sms-local.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_1_be
 hrm-cabintech-local1.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_1_be
 hrm-demo.nexdev.net nexus_nexcel_nexhrm_LOCAL_2_be
@@ -6,8 +13,6 @@ fpp.klc.nexdev.net novastar_hrm_fpp_website_LOCAL_be
 api1-fanexbot.nexdev.net nexus_fanex_botservice_api_LOCAL_1_be
 api-fanexbot.nexdev.net nexus_fanex_botservice_api_LOCAL_be
 endpoint-fanexbot.nexdev.net nexus_fanex_botservice_endpoint_LOCAL_be
-hrm-sms.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
-hrm-wgi.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
 licbot.nexdev.net nexus_chatbot_ncb_service_endpoint_LOCAL_be
 go-system-ghrworld1.nexdev.net novastar_hrm_go_system_LOCAL_1_be
 crm-botendpoint.nexdev.net nexus_nap_crm_botservice_endpoint_LOCAL_be
