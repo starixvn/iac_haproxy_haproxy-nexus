@@ -1,3 +1,4 @@
+new-goal.nexdev.net nexus_epa_nexgoal_website_LOCAL_be
 hrm-sms.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
 hrm-wgi.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
 hrm-lexfingsi.klc.nexdev.net novastar_hrm_group_hrm_website_LOCAL_be
@@ -50,7 +51,6 @@ fb-nexhrm-webservice.nexdev.net nexus_nexcel_fb_nexhrm_webservice_LOCAL_be
 im-local.nexdev.net nexus_nexcel_incident_management_LOCAL_be
 nexhrm.nexdev.net nexus_nexcel_nexhrm_LOCAL_be
 360-epa.nexdev.net nexus_epa_360epa_website_LOCAL_be
-new-goal.nexdev.net nexus_epa_nexgoal_website_LOCAL_be
 lumi-info.nexdev.net nexus_nexcel_info_site_LOCAL_1_be
 nex-info.nexdev.net nexus_nexcel_info_site_LOCAL_be
 crm-botendpoint1.nexdev.net nexus_nap_crm_botservice_endpoint_LOCAL_1_be
