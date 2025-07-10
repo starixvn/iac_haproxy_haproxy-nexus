@@ -1,5 +1,3 @@
-uatlicbotendpoint.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_1_be
-licbotwebhook.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_be
 api-fanexbot.starixplay.com nexus_fanex_botservice_api_PROD_be
 crmbk.oneops.net nexus_nap_crm_website_PROD_2_be
 crmbotendpoint.oneops.net nexus_nap_crm_botservice_endpoint_PROD_be
@@ -10,6 +8,8 @@ crm2.oneops.net nexus_nap_crm_website_PROD_be
 crm3.oneops.net nexus_nap_crm_website_PROD_be
 #letstalkcrm.oneops.net nexus_nap_crm_letstalk_webhook_PROD_be
 #Nexus
+licbotendpoint.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_be
+licbotwebhook2.starixplay.com nexus_chatbot_ncb_service_endpoint_PROD_be
 licbot.oneops.net nexus_chatbot_ncb_main_PROD_be
 licbot2.oneops.net nexus_chatbot_ncb_main_PROD_be
 licbot3.oneops.net nexus_chatbot_ncb_main_PROD_be
