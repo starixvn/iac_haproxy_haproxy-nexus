@@ -1,3 +1,6 @@
+crmupload-klp.starixplay.com nexus_nap_crm_announcement_uploads_KLPROD_be
+crmupload.starix-klprod.gamora.prod nexus_nap_crm_announcement_uploads_KLPROD_be
+crmupload.oneops.net nexus_nap_crm_announcement_uploads_KLPROD_be
 owp-klp.starixplay.com novastar_nap_owp_KLPROD_be
 owp-service.starix-klprod.gamora.prod novastar_nap_owp_KLPROD_be
 owp1.oneops.net novastar_nap_owp_KLPROD_be
@@ -16,8 +19,6 @@ crm.oneops.net nexus_nap_crm_website_KLPROD_be
 crm2.oneops.net nexus_nap_crm_website_KLPROD_be
 crm3.oneops.net nexus_nap_crm_website_KLPROD_be
 licbot-klp.starixplay.com nexus_chatbot_ncb_main_KLPROD_be
-crmupload-klp.starixplay.com nexus_nap_crm_announcement_uploads_KLPROD_be
-crmupload.starix-klprod.gamora.prod nexus_nap_crm_announcement_uploads_KLPROD_be
 botapi.starix-klprod.gamora.prod nexus_fanex_botservice_api_KLPROD_be
 botendpoint.starix-klprod.gamora.prod nexus_fanex_botservice_endpoint_KLPROD_be
 #
