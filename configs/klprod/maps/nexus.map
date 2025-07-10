@@ -1,3 +1,5 @@
+licbot-klp.starixplay.com nexus_chatbot_ncb_main_KLPROD_be
+licbot.oneops.net nexus_chatbot_ncb_main_KLPROD_be
 licbotwebhook-klp.starixplay.com nexus_chatbot_ncb_service_endpoint_KLPROD_be
 licbotwebhook.starixplay.com nexus_chatbot_ncb_service_endpoint_KLPROD_be
 crmupload-klp.starixplay.com nexus_nap_crm_announcement_uploads_KLPROD_be
@@ -20,7 +22,6 @@ crm-klp.starixplay.com nexus_nap_crm_website_KLPROD_be
 crm.oneops.net nexus_nap_crm_website_KLPROD_be
 crm2.oneops.net nexus_nap_crm_website_KLPROD_be
 crm3.oneops.net nexus_nap_crm_website_KLPROD_be
-licbot-klp.starixplay.com nexus_chatbot_ncb_main_KLPROD_be
 botapi.starix-klprod.gamora.prod nexus_fanex_botservice_api_KLPROD_be
 botendpoint.starix-klprod.gamora.prod nexus_fanex_botservice_endpoint_KLPROD_be
 #
