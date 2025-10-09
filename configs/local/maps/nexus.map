@@ -1,3 +1,4 @@
+go-webadmin-ghrworld.nexdev.net novastar_hrm_go_webadmin_LOCAL_be
 goal-nexvision-local.nexdev.net nexus_epa_nexgoal_website_LOCAL_2_be
 rmdebug.nexdev.net nexus_nexcel_redminedebug_LOCAL_be
 or.nexdev.net nexus_nexcel_redmine_LOCAL_be
@@ -38,7 +39,6 @@ endpoint-fanexbot.nexdev.net nexus_fanex_botservice_endpoint_LOCAL_be
 licbot.nexdev.net nexus_chatbot_ncb_service_endpoint_LOCAL_be
 go-system-ghrworld1.nexdev.net novastar_hrm_go_system_LOCAL_1_be
 crm-botendpoint.nexdev.net nexus_nap_crm_botservice_endpoint_LOCAL_be
-go-webadmin-ghrworld.nexdev.net nexus_hrm_go_webadmin_LOCAL_be
 go-api-ghrworld1.nexdev.net nexus_hrm_go_webapi_LOCAL_1_be
 go-api-ghrworld.nexdev.net nexus_hrm_go_webapi_LOCAL_be
 12bsabaadmin.nexdev.net nexus_saba_sports_saba_news_wp_12b_LOCAL_be
