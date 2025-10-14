@@ -1,3 +1,7 @@
+ncb-main3.nexdev.net nexus_chatbot_ncb_main_LOCAL_3_be
+ncb-main2.nexdev.net nexus_chatbot_ncb_main_LOCAL_2_be
+ncb-main1.nexdev.net nexus_chatbot_ncb_main_LOCAL_1_be
+ncb-main.nexdev.net nexus_chatbot_ncb_main_LOCAL_be
 go-api-ghrworld.nexdev.net novastar_hrm_go_webapi_LOCAL_be
 go-webadmin-ghrworld.nexdev.net novastar_hrm_go_webadmin_LOCAL_be
 goal-nexvision-local.nexdev.net nexus_epa_nexgoal_website_LOCAL_2_be
@@ -81,10 +85,6 @@ rm-bk.nexdev.net nexus_redmine_nodes_PROD_bk
 rm-old.nexdev.net nexus_redmine_nodes_PROD_OLD
 rm-local.nexdev.net nexus_nexcel_redmine_PROD_be
 licbot2.nexdev.net nexus_chatbot_ncb_service_endpoint_LOCAL_1_be
-ncb-main3.nexdev.net nexus_chatbot_ncb_main_LOCAL_3_be
-ncb-main2.nexdev.net nexus_chatbot_ncb_main_LOCAL_2_be
-ncb-main1.nexdev.net nexus_chatbot_ncb_main_LOCAL_1_be
-ncb-main.nexdev.net nexus_chatbot_ncb_main_LOCAL_be
 saba-news-v3.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_1_be
 saba-news-v2.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_1_be
 saba-news-v1.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_be
