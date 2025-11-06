@@ -1,3 +1,4 @@
+sabanews.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_be
 ncb-main3.nexdev.net nexus_chatbot_ncb_main_LOCAL_3_be
 ncb-main2.nexdev.net nexus_chatbot_ncb_main_LOCAL_2_be
 ncb-main1.nexdev.net nexus_chatbot_ncb_main_LOCAL_1_be
@@ -87,7 +88,6 @@ rm-local.nexdev.net nexus_nexcel_redmine_PROD_be
 licbot2.nexdev.net nexus_chatbot_ncb_service_endpoint_LOCAL_1_be
 saba-news-v3.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_1_be
 saba-news-v2.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_1_be
-saba-news-v1.nexdev.net nexus_saba_sports_saba_news_site_LOCAL_be
 saba-reports-upload.nexdev.net nexus_saba_sports_saba_news_upload_LOCAL_be
 saba-reports.nexdev.net nexus_saba_sports_saba_news_wp_LOCAL_be
 new-crm.nexdev.net nexus_nap_crm_website_LOCAL_be
